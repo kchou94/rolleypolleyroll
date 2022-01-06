@@ -1,0 +1,22 @@
+{
+  "name": "rolleypolleyroll",
+  "version": "1.0.0",
+  "description": "discord bot for rolleypolley gacha",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kchou94/rolleypolleyroll.git"
+  },
+  "author": "kchou94",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kchou94/rolleypolleyroll/issues"
+  },
+  "homepage": "https://github.com/kchou94/rolleypolleyroll#readme",
+  "dependencies": {
+    "discord.js": "^13.5.0"
+  }
+}
